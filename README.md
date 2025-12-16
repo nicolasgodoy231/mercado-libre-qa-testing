@@ -92,15 +92,23 @@ Si tenés feedback o querés charlar sobre testing, ¡dejá un comentario o cont
 <div align="left" style="margin: 40px 0;">
 
 <div style="margin: 20px 0;">
-  <a href="https://www.linkedin.com/in/javier-nicol%C3%A1s-godoy-8427651b1/">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" height="50">
+  <a href="https://www.linkedin.com/in/javier-nicolás-godoy-8427651b1/">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" height="50" style="vertical-align: middle;">
   </a>
 </div>
 
 <div style="margin: 20px 0;">
   <a href="mailto:nicolasgodoy231@gmail.com">
-    <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Email" height="50">
+    <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Email" height="50" style="vertical-align: middle;">
   </a>
+  <span style="margin-left: 15px; font-size: 16px; vertical-align: middle; display: inline-block;">nicolasgodoy231@gmail.com</span>
+</div>
+
+<div style="margin: 20px 0;">
+  <a href="https://nicolasgodoy231.github.io/Portfolio-QA-Javier-Nicolas-Godoy/">
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/013/362/600/small/brown-office-bag-free-png.png" alt="Portfolio QA" height="40" style="vertical-align: middle;">
+  </a>
+  <span style="margin-left: 15px; font-size: 16px; vertical-align: middle; display: inline-block;">Portfolio QA</span>
 </div>
 
 </div>
