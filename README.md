@@ -89,8 +89,14 @@ Este proyecto demuestra:
 **¡Gracias por visitar mi portfolio!**  
 Si tenés feedback o querés charlar sobre testing, ¡dejá un comentario o contactame!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin)](https://www.linkedin.com/in/javier-nicol%C3%A1s-godoy-8427651b1/)
-[![Email](https://img.shields.io/badge/Email-Contactar-red?logo=gmail)](nicolasgodoy231@gmail.com)
+<div style="display: flex; gap: 30px; align-items: center; margin: 20px 0;">
+  <a href="https://www.linkedin.com/in/javier-nicol%C3%A1s-godoy-8427651b1/">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" height="40">
+  </a>
+  <a href="nicolasgodoy231@gmail.com">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Email" height="40">
+  </a>
+</div>
 
----
+
 *Proyecto realizado en diciembre 2025 - Javier Nicolás Godoy*
