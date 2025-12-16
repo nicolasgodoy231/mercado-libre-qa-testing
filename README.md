@@ -1,7 +1,6 @@
 # Mercado Libre - Proyecto de Testing Manual (Web & Mobile)
 
-![Mercado Libre Banner](https://i.imgur.com/0n5Z0wM.png)
-<!-- Reemplazar el link de arriba por una captura propia del home de Mercado Libre -->
+<img src="evidencias/banner.png" alt="Mercado Libre Banner" style="width: 35%;">
 
 **Proyecto de QA Manual** realizado como parte de mi portfolio profesional.  
 Se probaron las funcionalidades principales de **Mercado Libre** en entorno web (PC) y aplicación móvil (Android/iOS), cubriendo flujo de compra completo (sin realizar pagos reales).
