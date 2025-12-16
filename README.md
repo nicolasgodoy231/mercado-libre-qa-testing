@@ -56,12 +56,20 @@ Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando
 - Imgur / GitHub para alojar evidencias
 
 ## Estructura del Repositorio
-├── docs/                  → Test Plan en Markdown
-├── evidencias/            → Screenshots y videos (TC01_pass.png, etc.)
-├── bugs/                  → Reporte de defectos (BUGS.md + capturas)
-├── Test-Cases-MercadoLibre.xlsx    → Versión descargable (opcional)
-├── README.md              → Este archivo
-└── LICENSE
+
+O, si preferís una versión más simple y limpia (tabla), también queda muy profesional:
+
+## Estructura del Repositorio
+
+| Carpeta/Archivo                  | Descripción                                      |
+|----------------------------------|--------------------------------------------------|
+| `docs/`                          | Test Plan completo en Markdown                   |
+| `evidencias/`                    | Screenshots y videos de ejecución de casos       |
+| `bugs/`                          | Reporte de bugs encontrados (BUGS.md + imágenes) |
+| `Test-Cases-MercadoLibre.xlsx`   | Hoja de casos de prueba descargable (opcional)    |
+| `README.md`                      | Documentación principal del proyecto             |
+| `LICENSE`                        | Licencia del repositorio (MIT recomendada)       |
+
 
 
 ## ¿Por qué este proyecto?
