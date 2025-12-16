@@ -92,9 +92,8 @@ Si tenés feedback o querés charlar sobre testing, ¡dejá un comentario o cont
 <div style="display: flex; gap: 30px; align-items: center; margin: 20px 0;">
   <a href="https://www.linkedin.com/in/javier-nicol%C3%A1s-godoy-8427651b1/">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" height="40">
-  </a>
   <a href="mailto:nicolasgodoy231@gmail.com">
-    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Email" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_Logo_2013.png" alt="Email" height="50">
   </a>
 </div>
 
