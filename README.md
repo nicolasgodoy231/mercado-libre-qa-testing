@@ -92,9 +92,9 @@ Si tenés feedback o querés charlar sobre testing, ¡dejá un comentario o cont
 <div style="display: flex; gap: 30px; align-items: center; margin: 20px 0;">
   <a href="https://www.linkedin.com/in/javier-nicol%C3%A1s-godoy-8427651b1/">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" height="40">
-  <a href="mailto:nicolasgodoy231@gmail.com">(mailto:nicolasgodoy231@gmail.com)
 
-  </a>
+[![Email](https://img.shields.io/badge/Email-Contactar-red?logo=gmail)](mailto:nicolasgodoy231@gmail.com)
 </div>
 
+---
 *Proyecto realizado en diciembre 2025 - Javier Nicolás Godoy*
