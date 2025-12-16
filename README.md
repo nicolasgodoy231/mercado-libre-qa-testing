@@ -81,8 +81,8 @@ Este proyecto demuestra:
 **¡Gracias por visitar mi portfolio!**  
 Si tenés feedback o querés charlar sobre testing, ¡dejá un comentario o contactame!
 
-https://www.linkedin.com/in/javier-nicol%C3%A1s-godoy-8427651b1/
-nicolasgodoy231@gmail.com
+[![LinkedIn](https://www.linkedin.com/in/javier-nicol%C3%A1s-godoy-8427651b1/)
+[![Email](nicolasgodoy231@gmail.com)
 
 ---
 *Proyecto realizado en diciembre 2025 - Javier Nicolás Godoy*
