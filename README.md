@@ -3,7 +3,7 @@
 <img src="evidencias/banner.png" alt="Mercado Libre Banner" style="width: 35%;">
 
 **Proyecto de QA Manual** realizado como parte de mi portfolio profesional.  
-Se probaron las funcionalidades principales de **Mercado Libre** en entorno web (PC) y aplicación móvil (Android), cubriendo flujo de compra completo (sin realizar pagos reales).
+Se probaron las funcionalidades principales de **Mercado Libre** en web (PC) y mobile (Android), cubriendo flujo de compra (sin realizar pagos reales).
 
 ## Objetivo
 Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando posibles defectos en:
@@ -14,10 +14,10 @@ Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando
 - Compatibilidad y responsividad
 
 ## Alcance del Testing
-- **Plataformas**: Web (Chrome, Edge) y App Mobile (Android)
+- **Plataformas**: Web (Chrome, Edge) y Mobile (Android)
 - **Tipos de prueba**: Funcional, usabilidad, compatibilidad, exploratorio
 - **Casos ejecutados**: 50 casos de prueba manuales
-- **Out of scope**: Pagos reales, publicaciones, área de vendedor, notificaciones push
+- **Out of scope**: Pagos reales, publicaciones, área de vendedor, notificaciones
 
 ## Entornos Probados
 | Plataforma   | Dispositivo / Navegador                  | Resolución / SO              |
@@ -32,55 +32,30 @@ Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando
 - **[Test Plan completo](docs/Test-Plan-MercadoLibre.md)** → Objetivos, alcance, criterios de aceptación y estrategia.
 - **[Hoja de Casos de Prueba (Excel)](https://docs.google.com/spreadsheets/d/[ACA_PONES_EL_LINK_DE_TU_HOJA])**  
   (50 casos de prueba con ID, pasos, datos, resultado esperado/obtenido, evidencias e incidencias)
-- **[Carpeta de Evidencias](/evidencias)** → Screenshots y videos cortos de ejecución (nombrados por TC).
-- **[Reporte de Bugs](/bugs/BUGS.md)** → Lista de defectos encontrados con severidad, pasos para reproducir y evidencias.
+- **[Carpeta de Evidencias](/evidencias)** → Capturas y videos cortos de ejecución.
+- **[Reporte de Bugs](/bugs/BUGS.md)** → Lista de defectos clasificados por severidad, pasos para reproducir y evidencias.
 
-## Resultados Resumidos
-| Métrica                  | Cantidad      |
-|--------------------------|---------------|
-| Total casos de prueba    | 50            |
-| Casos aprobados (Pass)   | XX            |
-| Casos fallidos (Fail)    | XX            |
-| Bugs reportados          | XX (X críticos, X altos, X medios, X bajos) |
-| Cobertura principal      | Búsqueda, filtros, carrito, checkout, responsividad |
-
-> Los valores de Pass/Fail y bugs los completarás una vez que ejecutes todos los casos.
 
 ## Herramientas Utilizadas
 - Google Chrome / Edge + DevTools
 - Aplicación oficial Mercado Libre (Play Store)
-- Google Sheets (gestión de casos de prueba)
+- Excel (gestión de casos de prueba)
 - Capturas de pantalla y grabación nativa del dispositivo
 - GitHub para alojar evidencias
 
-## Estructura del Repositorio
 
-O, si preferís una versión más simple y limpia (tabla), también queda muy profesional:
 
 ## Estructura del Repositorio
 
 | Carpeta/Archivo                  | Descripción                                      |
 |----------------------------------|--------------------------------------------------|
 | `docs/`                          | Test Plan completo en Markdown                   |
-| `evidencias/`                    | Screenshots y videos de ejecución de casos       |
+| `evidencias/`                    | Capturas y videos de ejecución de casos          |
 | `bugs/`                          | Reporte de bugs encontrados (BUGS.md + imágenes) |
 | `Test-Cases-MercadoLibre.xlsx`   | Hoja de casos de prueba                          |
 | `README.md`                      | Documentación principal del proyecto             |
 | `LICENSE`                        | Licencia del repositorio                         |
 
-
-
-## ¿Por qué este proyecto?
-Este proyecto demuestra:
-- Capacidad para diseñar casos de prueba claros y estructurados
-- Conocimiento de flujos críticos de e-commerce
-- Atención al detalle en diferentes dispositivos y navegadores
-- Buena documentación y presentación profesional (clave en QA)
-
-## Próximos pasos (futuras mejoras)
-- Automatización de casos críticos con Selenium
-- Pruebas de regresión visual
-- Testing de rendimiento básico (tiempos de carga)
 
 ---
 
