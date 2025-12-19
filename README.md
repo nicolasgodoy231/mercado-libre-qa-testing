@@ -3,7 +3,7 @@
 <img src="evidencias/banner.png" alt="Mercado Libre Banner" style="width: 35%;">
 
 **Proyecto de QA Manual** realizado como parte de mi portfolio profesional.  
-Se probaron las funcionalidades principales de **Mercado Libre** en entorno web (PC) y aplicación móvil (Android/iOS), cubriendo flujo de compra completo (sin realizar pagos reales).
+Se probaron las funcionalidades principales de **Mercado Libre** en entorno web (PC) y aplicación móvil (Android), cubriendo flujo de compra completo (sin realizar pagos reales).
 
 ## Objetivo
 Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando posibles defectos en:
@@ -14,7 +14,7 @@ Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando
 - Compatibilidad y responsividad
 
 ## Alcance del Testing
-- **Plataformas**: Web (Chrome, Firefox) y App Mobile (Android e iOS)
+- **Plataformas**: Web (Chrome, Edge) y App Mobile (Android)
 - **Tipos de prueba**: Funcional, usabilidad, compatibilidad, exploratorio
 - **Casos ejecutados**: 50 casos de prueba manuales
 - **Out of scope**: Pagos reales, publicaciones, área de vendedor, notificaciones push
@@ -22,16 +22,15 @@ Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando
 ## Entornos Probados
 | Plataforma   | Dispositivo / Navegador                  | Resolución / SO              |
 |--------------|------------------------------------------|------------------------------|
-| Web          | Google Chrome (última versión)           | 1920x1080 - Windows 11       |
-| Web          | Mozilla Firefox                          | 1920x1080 - Windows 11       |
-| Mobile (App) | Samsung Galaxy / Emulador Android        | Android 14                   |
-| Mobile (App) | iPhone 14 / Simulador iOS                | iOS 17+                      |
+| Web          | Google Chrome (última versión)           | 1280 X 800 - Windows 11      |
+| Web          | Microsoft Edge                           | 1280 X 800 - Windows 11      |
+| Mobile (App) | Samsung Galaxy / Emulador Android        | Android 10                   |
 | Web Mobile   | Chrome DevTools (vista responsive)       | 375px (mobile view)          |
 
 ## Documentación del Proyecto
 
 - **[Test Plan completo](docs/Test-Plan-MercadoLibre.md)** → Objetivos, alcance, criterios de aceptación y estrategia.
-- **[Hoja de Casos de Prueba (Google Sheets)](https://docs.google.com/spreadsheets/d/[ACA_PONES_EL_LINK_DE_TU_HOJA])**  
+- **[Hoja de Casos de Prueba (Excel)](https://docs.google.com/spreadsheets/d/[ACA_PONES_EL_LINK_DE_TU_HOJA])**  
   (50 casos de prueba con ID, pasos, datos, resultado esperado/obtenido, evidencias e incidencias)
 - **[Carpeta de Evidencias](/evidencias)** → Screenshots y videos cortos de ejecución (nombrados por TC).
 - **[Reporte de Bugs](/bugs/BUGS.md)** → Lista de defectos encontrados con severidad, pasos para reproducir y evidencias.
@@ -48,11 +47,11 @@ Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando
 > Los valores de Pass/Fail y bugs los completarás una vez que ejecutes todos los casos.
 
 ## Herramientas Utilizadas
-- Google Chrome / Firefox + DevTools
-- Aplicación oficial Mercado Libre (Play Store / App Store)
+- Google Chrome / Edge + DevTools
+- Aplicación oficial Mercado Libre (Play Store)
 - Google Sheets (gestión de casos de prueba)
 - Capturas de pantalla y grabación nativa del dispositivo
-- Imgur / GitHub para alojar evidencias
+- GitHub para alojar evidencias
 
 ## Estructura del Repositorio
 
@@ -65,9 +64,9 @@ O, si preferís una versión más simple y limpia (tabla), también queda muy pr
 | `docs/`                          | Test Plan completo en Markdown                   |
 | `evidencias/`                    | Screenshots y videos de ejecución de casos       |
 | `bugs/`                          | Reporte de bugs encontrados (BUGS.md + imágenes) |
-| `Test-Cases-MercadoLibre.xlsx`   | Hoja de casos de prueba descargable (opcional)    |
+| `Test-Cases-MercadoLibre.xlsx`   | Hoja de casos de prueba                          |
 | `README.md`                      | Documentación principal del proyecto             |
-| `LICENSE`                        | Licencia del repositorio (MIT recomendada)       |
+| `LICENSE`                        | Licencia del repositorio                         |
 
 
 
@@ -79,7 +78,7 @@ Este proyecto demuestra:
 - Buena documentación y presentación profesional (clave en QA)
 
 ## Próximos pasos (futuras mejoras)
-- Automatización de casos críticos con Selenium/WebDriverIO
+- Automatización de casos críticos con Selenium
 - Pruebas de regresión visual
 - Testing de rendimiento básico (tiempos de carga)
 
