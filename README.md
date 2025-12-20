@@ -59,32 +59,11 @@ Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando
 
 ---
 
-**¡Gracias por visitar mi portfolio!**  
-Si tenés feedback o querés charlar sobre testing, ¡dejá un comentario o contactame!
+## Contacto
 
-<div align="left" style="margin: 40px 0;">
+Si tienes alguna oportunidad de empleo, colaboración o simplemente quieres conectar, no dudes en contactarme:
 
-<div style="margin: 20px 0;">
-  <a href="https://www.linkedin.com/in/javier-nicolás-godoy-8427651b1/">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" height="50" style="vertical-align: middle;">
-  </a>
-</div>
-
-<div style="margin: 20px 0;">
-  <a href="mailto:nicolasgodoy231@gmail.com">
-    <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Email" height="50" style="vertical-align: middle;">
-  </a>
-  <span style="margin-left: 15px; font-size: 16px; vertical-align: middle; display: inline-block;">nicolasgodoy231@gmail.com</span>
-</div>
-
-<div style="margin: 20px 0;">
-  <a href="https://nicolasgodoy231.github.io/Portfolio-QA-Javier-Nicolas-Godoy/">
-    <img src="https://static.vecteezy.com/system/resources/thumbnails/013/362/600/small/brown-office-bag-free-png.png" alt="Portfolio QA" height="40" style="vertical-align: middle;">
-  </a>
-  <span style="margin-left: 15px; font-size: 16px; vertical-align: middle; display: inline-block;">Portfolio QA</span>
-</div>
-
-</div>
-
----
-*Proyecto realizado en diciembre 2025 - Javier Nicolás Godoy*
+* **Whatsapp:** [1176280738](https://wa.me/5491176280738)
+* **LinkedIn:** [Javier Nicolás Godoy](https://www.linkedin.com/in/javier-nicol%C3%A1s-godoy-8427651b1/)
+* **Email:** [nicolasgodoy231@gmail.com](mailto:nicolasgodoy231@gmail.com)
+* **Currículum Vitae:** [Ver desde Google Drive](https://drive.google.com/file/d/14FeBrKoDvOaYU3aLjnG-2MeedGQ-83fl/view?usp=drive_link)
