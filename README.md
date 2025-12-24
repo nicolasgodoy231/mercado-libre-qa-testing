@@ -10,21 +10,21 @@ Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando
 - Navegación y búsqueda
 - Filtros y ordenamiento
 - Detalle de producto
-- Carrito y checkout
+- Carrito y resumen de compra
 - Compatibilidad y responsividad
 
 ## Alcance del Testing
 - **Plataformas**: Web (Chrome, Edge) y Mobile (Android)
 - **Tipos de prueba**: Funcional, usabilidad, compatibilidad, exploratorio
 - **Casos ejecutados**: 50 casos de prueba manuales
-- **Out of scope**: Pagos reales, publicaciones, área de vendedor, notificaciones
+- **In scope**: Registro/inicio de sesión, búsqueda de productos, navegación de categorías, detalle de producto, agregar al carrito, proceso de checkout (hasta antes del pago real), filtros y ordenamiento.
 
 ## Entornos Probados
 | Plataforma   | Dispositivo / Navegador                  | Resolución / SO              |
 |--------------|------------------------------------------|------------------------------|
 | Web          | Google Chrome (última versión)           | 1280 X 800 - Windows 11      |
 | Web          | Microsoft Edge                           | 1280 X 800 - Windows 11      |
-| Mobile (App) | Samsung Galaxy / Emulador Android        | Android 10                   |
+| Mobile (App) | Motorola One Fusion                      | Android 11                   |
 | Web Mobile   | Chrome DevTools (vista responsive)       | 375px (mobile view)          |
 
 ## Documentación del Proyecto
@@ -40,7 +40,7 @@ Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando
 - Google Chrome / Edge + DevTools
 - Aplicación oficial Mercado Libre (Play Store)
 - Excel (gestión de casos de prueba)
-- Capturas de pantalla y grabación nativa del dispositivo
+- Capturas de pantalla y grabación de pantalla
 - GitHub para alojar evidencias
 
 
