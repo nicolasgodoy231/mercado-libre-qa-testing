@@ -35,12 +35,12 @@ Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando
 
 
 ## Herramientas Utilizadas
-- Google Chrome / Edge + DevTools
-- Aplicación oficial Mercado Libre (Play Store)
-- Excel (gestión de casos de prueba)
-- Capturas de pantalla y grabación de pantalla
-- GitHub para alojar evidencias
-
+- **Google Chrome / Edge + DevTools**: Inspección de elementos y diseño responsive.
+- **Aplicación oficial Mercado Libre (Play Store)**
+- **Excel / Google Sheets**: Diseño y ejecución de casos de prueba.
+- **Google Drive**: Almacenamiento centralizado de evidencias (capturas y videos).
+- **Documentación**: Markdown y Microsoft Word para reportes finales. 
+- **GitHub para el control de versiones.
 
 
 ## Estructura del Repositorio
