@@ -47,9 +47,8 @@ Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando
 
 | Carpeta/Archivo                  | Descripción                                      |
 |----------------------------------|--------------------------------------------------|
-| `docs/`                          | Test Plan completo en Markdown                   |
-| `incidencias/`                   | Reporte de incidencias encontradas (con capturas)|
-| `Test-Cases-MercadoLibre.xlsx`   | Hoja de casos de prueba                          |
+| `docs/`                          | Test Plan completo en Markdown y hoja de casos de prueba|
+| `incidencias/Incidencias.md`     | Reporte de incidencias encontradas (con capturas)|
 | `README.md`                      | Documentación principal del proyecto             |
 
 
