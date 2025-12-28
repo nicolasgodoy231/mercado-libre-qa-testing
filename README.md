@@ -30,10 +30,8 @@ Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando
 ## Documentación del Proyecto
 
 - **[Test Plan completo](docs/Test-Plan-MercadoLibre.md)** → Objetivos, alcance, criterios de aceptación y estrategia.
-- **[Hoja de Casos de Prueba (Excel)](https://docs.google.com/spreadsheets/d/[ACA_PONES_EL_LINK_DE_TU_HOJA])**  
-  (50 casos de prueba con ID, pasos, datos, resultado esperado/obtenido, evidencias e incidencias)
-- **[Carpeta de Evidencias](/evidencias)** → Capturas y videos cortos de ejecución.
-- **[Reporte de Bugs](/bugs/BUGS.md)** → Lista de defectos clasificados por severidad, pasos para reproducir y evidencias.
+- **[Hoja de Casos de Prueba (Excel)](docs/Casos-de-prueba-mercadolibre.xlsx)** → 50 casos de prueba con ID, pasos, datos, resultado esperado/obtenido, dispositivo, evidencias (capturas y videos cortos de ejecución).
+- **[Reporte de Incidencias](/incidencias/Incidencias.md)** → Lista de defectos clasificados por severidad, pasos para reproducir y evidencias.
 
 
 ## Herramientas Utilizadas
@@ -50,11 +48,9 @@ Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando
 | Carpeta/Archivo                  | Descripción                                      |
 |----------------------------------|--------------------------------------------------|
 | `docs/`                          | Test Plan completo en Markdown                   |
-| `evidencias/`                    | Capturas y videos de ejecución de casos          |
-| `bugs/`                          | Reporte de bugs encontrados (BUGS.md + imágenes) |
+| `incidencias/`                   | Reporte de incidencias encontradas (con capturas)|
 | `Test-Cases-MercadoLibre.xlsx`   | Hoja de casos de prueba                          |
 | `README.md`                      | Documentación principal del proyecto             |
-| `LICENSE`                        | Licencia del repositorio                         |
 
 
 ---
