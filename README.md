@@ -56,8 +56,6 @@ Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando
 
 ## Contacto
 
-Si tienes alguna oportunidad de empleo, colaboración o simplemente quieres conectar, no dudes en contactarme:
-
 * **Whatsapp:** [1176280738](https://wa.me/5491176280738)
 * **LinkedIn:** [Javier Nicolás Godoy](https://www.linkedin.com/in/javier-nicol%C3%A1s-godoy-8427651b1/)
 * **Email:** [nicolasgodoy231@gmail.com](mailto:nicolasgodoy231@gmail.com)
