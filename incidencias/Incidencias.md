@@ -1,8 +1,5 @@
 # Incidencias Reportadas
 
-Cada reporte incluye:  
-**Incidencia ID**, **Caso de Prueba**, **Severidad**, **Descripción**, **Pasos para reproducir**, **Evidencia** y **Plataforma afectada**.
-
 ### Incidencia-01 | Caso de Prueba: ML34 | Severidad: Media
 - **Descripción**: En la app mobile, al rotar la pantalla a orientación horizontal en detalle de producto, la interfaz no se adapta.
 - **Pasos para reproducir**:
@@ -37,4 +34,4 @@ Cada reporte incluye:
 **Nota**: No se detectaron incidencias críticas que impidan el flujo principal de compra.
 
 **Realizado por**: Javier Nicolás Godoy  
-**Fecha**: 24 de diciembre de 2025
+**Fecha**: 28 de diciembre de 2025
