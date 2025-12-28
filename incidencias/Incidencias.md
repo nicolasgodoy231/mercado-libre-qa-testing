@@ -1,6 +1,6 @@
 # Incidencias Reportadas
 
-### Incidencia-01 | Caso de Prueba: ML34 | Severidad: Media
+### Incidencia-01 | Caso de Prueba: ML34 | Severidad: Baja
 - **Descripción**: En la app mobile, al rotar la pantalla a orientación horizontal en detalle de producto, la interfaz no se adapta.
 - **Pasos para reproducir**:
   1. Abrir la app Mercado Libre en dispositivo Android.
@@ -8,6 +8,7 @@
   3. Rotar el dispositivo a orientación horizontal.
 - **Evidencia**: [Grabación de pantalla](https://drive.google.com/file/d/1exjMfqFWc3ZTUiSMEhvbSTCab_geoqkm/view?usp=drive_link)
 - **Plataforma afectada**: App Android (Motorola One Fusion - Android 11)
+- **Nota**: No se ve el momento en que giro la pantalla, posiblemente vuelva a grabar el momento con otro dispositivo.
 
 ### Incidencia-02 | Caso de Prueba: ML35 | Severidad: Baja
 - **Descripción**: La búsqueda por foto en mobile muestra resultados con imágenes y descripciones cortadas, y afecta búsquedas posteriores por texto.
@@ -15,7 +16,8 @@
   1. En la app mobile, tocar el ícono de cámara en la barra de búsqueda.
   2. Seleccionar una foto de la galería.
   3. Realizar una búsqueda por texto después de la búsqueda por foto.
-- **Evidencia**: [Grabación de pantalla](https://drive.google.com/file/d/1J3OgXU_umIJvJbWPZKvLl3gFUHUPsnMS/view?usp=drive_link)
+- **Evidencia1**: [Foto de búsqueda](https://drive.google.com/file/d/1TDSwlUcT6_ohFxSQzaCUBkLK0wBRZSlr/view)
+- **Evidencia2**: [Captura de pantalla](https://drive.google.com/file/d/1J3OgXU_umIJvJbWPZKvLl3gFUHUPsnMS/view?usp=drive_link)
 - **Plataforma afectada**: App Android (Motorola One Fusion - Android 11)
 
 ### Incidencia-03 | Caso de Prueba: ML36 | Severidad: Baja
