@@ -40,7 +40,7 @@ Validar funcionalmente la experiencia de usuario en Mercado Libre, identificando
 - **Excel / Google Sheets**: Diseño y ejecución de casos de prueba.
 - **Google Drive**: Almacenamiento centralizado de evidencias (capturas y videos).
 - **Documentación**: Markdown y Microsoft Word para reportes finales. 
-- **GitHub para el control de versiones.
+- **GitHub**: para el control de versiones.
 
 
 ## Estructura del Repositorio
